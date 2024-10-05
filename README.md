@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugaoAzevedo&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia a dia 💻
+### Tecnologias que uso no meu dia a dia 💻
 
 <div style="display: inline_block"><br/>
    <img heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"alt="html">
