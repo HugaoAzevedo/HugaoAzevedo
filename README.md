@@ -7,10 +7,10 @@
 
 ### Tecnologias que eu uso no meu dia a dia 💻
 
-<div style="display: inline_block"> <br/>
-    <img aling="center" alt="hmtl5" src=" https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="CSS" src=" https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="JS" src=" https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
-    <img aling="center" alt="Git" src=" https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+<div style="display: inline_block"><br/>
+   <img heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"alt="html">
+   <img heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css">
+   <img heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js">
+   <img heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="git">
 
+</div>   
